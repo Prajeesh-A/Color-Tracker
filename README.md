@@ -123,6 +123,6 @@ python main.py
 
 This project is licensed under the **MIT License**.  
 
-📧 **Developed by [Prajeesh A]** | 🌍 **[Your Website](prajeesh-a.github.io)**  
+📧 **Developed by [Prajeesh A]** | 🌍 **[Your Website](Prajeesh-A.github.io)**  
 
 ---
