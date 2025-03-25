@@ -29,8 +29,8 @@ A **real-time color detection and tracking system** using OpenCV. This project d
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/Prajeesh-A/Color Tracker.git  
-cd Color Tracker
+git clone https://github.com/Prajeesh-A/Color-Tracker-.git  
+cd Color-Tracker-
 ```  
 
 2️⃣ **Install dependencies**  
@@ -123,6 +123,6 @@ python main.py
 
 This project is licensed under the **MIT License**.  
 
-📧 **Developed by [Prajeesh A]** | 🌍 **[Your Website](Prajeesh-A.github.io)**  
+📧 **Developed by [Prajeesh A]** | 🌍 **[Your Website](https://prajeesh-a.github.io/)**  
 
 ---
