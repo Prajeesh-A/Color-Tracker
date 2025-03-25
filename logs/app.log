@@ -1,0 +1,16 @@
+2025-03-24 17:16:48,908 - INFO - Video processing started
+2025-03-24 17:16:48,921 - INFO - Video processing stopped
+2025-03-24 17:16:51,801 - WARNING - Primary source http://192.168.1.35:4747/video failed, trying fallback: test_video.mp4
+2025-03-24 17:16:51,852 - ERROR - Failed to open video source: http://192.168.1.35:4747/video and fallback: test_video.mp4
+2025-03-24 17:17:01,977 - INFO - Video processing started
+2025-03-24 17:17:40,397 - INFO - Video processing stopped
+2025-03-24 17:17:44,234 - INFO - Video processing started
+2025-03-24 17:17:52,008 - INFO - Video processing stopped
+2025-03-24 17:17:53,685 - INFO - Video processing started
+2025-03-24 17:18:12,765 - INFO - Video processing stopped
+2025-03-24 17:18:14,367 - INFO - Video processing started
+2025-03-24 17:19:12,933 - INFO - Video processing stopped
+2025-03-24 17:19:16,036 - INFO - Video processing started
+2025-03-24 17:19:24,368 - INFO - Video processing stopped
+2025-03-24 17:19:32,752 - INFO - Video processing started
+2025-03-24 17:20:27,635 - INFO - Video processing stopped

@@ -1,0 +1,14 @@
+{
+    "video_source": "http://192.168.1.35:4747/video",
+    "fallback_source": "test_video.mp4",
+    "min_contour_area": 500,
+    "frame_rate_target": 30,
+    "colors": {
+        "Red": {"lower": [0, 120, 70], "upper": [10, 255, 255], "bgr": [0, 0, 255]},
+        "Yellow": {"lower": [20, 100, 100], "upper": [30, 255, 255], "bgr": [0, 255, 255]},
+        "Green": {"lower": [40, 40, 40], "upper": [80, 255, 255], "bgr": [0, 255, 0]},
+        "Blue": {"lower": [90, 50, 50], "upper": [130, 255, 255], "bgr": [255, 0, 0]},
+        "White": {"lower": [0, 0, 200], "upper": [180, 25, 255], "bgr": [255, 255, 255]},
+        "Black": {"lower": [0, 0, 0], "upper": [180, 255, 50], "bgr": [0, 0, 0]}
+    }
+}
